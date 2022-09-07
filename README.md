@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Kubernetes-native IDP (Integrated Developer Platform) to assist development of live applications to Kubernetes.
+- 🔭 I’m currently working on lots of stuff, too much to list, but mainly cloud-native, security, and DevOps-y stuff
 - 🌱 I’m currently learning [Kubernetes](http://kubernetes.io/), [Go](https://go.dev) and DevOps on the whole
 - 👯 I’m looking to collaborate on some Go-based
 - 💬 Ask me about TypeScript, RHEL-based Linux, and DevOps stuff!

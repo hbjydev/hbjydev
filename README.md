@@ -1,9 +1,43 @@
-### Hi there 👋
+# 👋 Hi there, I'm Hayden!
 
-- 🔭 I’m currently working on lots of stuff, too much to list, but mainly cloud-native, security, and DevOps-y stuff
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [AWS](https://aws.amazon.com), and DevOps on the whole
-- 👯 I’m looking to collaborate on some personal projects and also help out some communities if I can :)
-- 💬 Ask me about TypeScript, RHEL-based Linux, and DevOps stuff!
-- 📫 How to reach me: [Twitter](https://twitter.com/hayden_dev), [Mastodon](https://hachyderm.io/@hayden) or [email](mailto:hayden@hbjy.dev)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You just read some text saying "Fun fact".
+Welcome to my GitHub profile! Glad you dropped by.
+
+## About Me 🚀
+
+I'm a DevOps Engineer who loves to build, automate, and sometimes break things
+(for educational purposes, of course!) with Go 🐹 and Python 🐍. When I'm not
+staring at my terminal, you'll find me chasing down the latest tech trends or
+cooking up some scripts to make life easier.
+
+## Technologies & Tools 🔧
+
+- Programming Languages: Go, Python, a _little_ bit of Rust
+- DevOps: CI/CD (GitLab CI, GitHub Actions), Docker, Kubernetes, Terraform, Nix
+- Cloud: AWS, Scaleway
+- Monitoring & Observability: Grafana LGTM Stack mainly, some familiarity with Graylog
+- Infrastructure as Code (IaC): Terraform, Ansible, Nix
+- Databases: PostgreSQL, MySQL
+
+## My GitHub Stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbjydev&show_icons=true&theme=tokyonight)
+
+<details>
+<summary><b>More Stats</b></summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbjydev&layout=compact&theme=tokyonight)
+
+</details>
+
+## Code Graph 📊
+
+<!-- Embed your GitHub code graph -->
+![GitHub Code Graph](https://activity-graph.herokuapp.com/graph?username=hbjydev&bg_color=000000&color=58a6ff&line=28a745&point=ffffff&area=true&hide_border=true)
+
+## Let's Connect! 🌐
+
+Feel free to reach out to me:
+
+- LinkedIn: [hbjy](https://www.linkedin.com/in/hbjy/)
+- Twitter: [@hayden_dev](https://twitter.com/hayden_dev)
+- Personal Blog: [hayden.moe](https://hayden.moe/)

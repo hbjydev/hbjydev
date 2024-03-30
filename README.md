@@ -29,11 +29,6 @@ cooking up some scripts to make life easier.
 
 </details>
 
-## Code Graph 📊
-
-<!-- Embed your GitHub code graph -->
-![GitHub Code Graph](https://activity-graph.herokuapp.com/graph?username=hbjydev&bg_color=000000&color=58a6ff&line=28a745&point=ffffff&area=true&hide_border=true)
-
 ## Let's Connect! 🌐
 
 Feel free to reach out to me:

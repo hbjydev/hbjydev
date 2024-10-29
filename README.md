@@ -36,5 +36,5 @@ cooking up some scripts to make life easier.
 Feel free to reach out to me:
 
 - LinkedIn: [hbjy](https://www.linkedin.com/in/hbjy/)
-- Twitter: [@hayden_dev](https://twitter.com/hayden_dev)
+- Bluesky: [@hayden.moe](https://bsky.app/profile/hayden.moe)
 - Personal Blog: [hayden.moe](https://hayden.moe/)

@@ -13,12 +13,12 @@ cooking up some scripts to make life easier.
 
 ## Technologies & Tools 🔧
 
-- Programming Languages: Go, Python, a _little_ bit of Rust
-- DevOps: CI/CD (GitLab CI, GitHub Actions), Docker, Kubernetes, Terraform, Nix
+- Programming Languages: Go, Rust, Python, TypeScript
+- DevOps: CI/CD, Docker, Kubernetes, Terraform, Nix, Fabric, TeamCity
 - Cloud: AWS, Scaleway
-- Monitoring & Observability: Grafana LGTM Stack mainly, some familiarity with Graylog
-- Infrastructure as Code (IaC): Terraform, Ansible, Nix
-- Databases: PostgreSQL, MySQL
+- Monitoring & Observability: Grafana LGTM Stack mainly (cloud and on-premises), some familiarity with Graylog
+- Infrastructure as Code (IaC): Terraform, Ansible, Nix, Pulumi
+- Databases: SQLite (specifically [libsql/sqld](https://github.com/tursodatabase/libsql)), PostgreSQL, MySQL, MSSQL (weak, but know my way around it)
 
 ## My GitHub Stats 📈
 
